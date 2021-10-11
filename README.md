@@ -1,2 +1,2 @@
 # SubmissionForm
-A simple Form Submission Spring-Boot-App having H2 Database to store details and retrival
+A simple Form Submission Spring-Boot-Web-App having H2 Database to store details and retrieval
